@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="1692" column="38" lean-forward="true" selection-start-line="1692" selection-start-column="38" selection-end-line="1692" selection-end-column="38" />
+            <state relative-caret-position="404">
+              <caret line="1699" column="38" lean-forward="true" selection-start-line="1699" selection-start-column="38" selection-end-line="1699" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -210,11 +210,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15457413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15457413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32968238" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -297,8 +297,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="1692" column="38" lean-forward="true" selection-start-line="1692" selection-start-column="38" selection-end-line="1692" selection-end-column="38" />
+        <state relative-caret-position="404">
+          <caret line="1699" column="38" lean-forward="true" selection-start-line="1699" selection-start-column="38" selection-end-line="1699" selection-end-column="38" />
         </state>
       </provider>
     </entry>
