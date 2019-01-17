@@ -718,7 +718,7 @@ def share4_2(request):
         contract_id = str(getid.values('contract_id')[0]['contract_id'])
         user_id = getid.values('owner')[0]['owner']
 
-        urlhistory = ("http://210.107.78.156:80/keyHistory/%s" % contract_id).
+        urlhistory = ("http://210.107.78.156:80/keyHistory/%s" % contract_id)
         urlto = requests.post(urlhistory)
         history = urlto.json()
         result_dict = {}
